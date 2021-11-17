@@ -1,0 +1,23 @@
+# Saudi Arabia Rental Houses Dataset
+Anwar alshehri. 
+
+## Abstract
+This project aims to discover the main attributes affecting the Rental house prices in Saudi Arabia. 
+
+The different attributes will be examined to determine which of them are the most important and contribute to increasing the rental prices. This dataset will only focused on the rental houses.
+
+## Design
+
+This project is one of the T5 Data Science BootCamp requirements. Data provided by Kaggle has been used in this project. 
+
+## Data 
+
+To achieve the goal of this project a dataset about Saudi Arabia Real-estate will be used. The data was originally collected from AQAR website and contains data about the rental in four Saudi cities: Riyadh, Jeddah, Dammam, and Al-Khobar. 
+A link to the dataset can be found below: https://www.kaggle.com/lama122/saudi-arabia-real-estate-aqar
+
+
+## Tools
+
+- Pandas for data manipulation
+- Scikit-learn for modeling
+- Matplotlib for plotting
